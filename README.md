@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently studying on [Universitas Pembangunan Jaya](https://upj.ac.id/)
 
-- 🌱 I’m currently learning **Python, HTML, CSS, Javascript, PHP, C, SQL**
+- 🌱 I’m currently learning **Python, HTML, CSS, Javascript, PHP, C, C++, SQL**
 
 - 🤝 I’m looking for help with [w3schools](https://www.w3schools.com/)
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://osc.medcom.id/community/author/barayaroas@gmail.com](https://osc.medcom.id/community/author/barayaroas@gmail.com)
 
-- 💬 Ask me about **Keras, Tensorflow, PyTorch, OpenCV, Huggingface, Bootstrap, TypeScript,Node.js, Express.js, MySQL, MongoDB**
+- 💬 Ask me about **Keras, Tensorflow, PyTorch, OpenCV, Huggingface, Bootstrap, TypeScript, Node.js, Express.js, Arduino, MySQL, MongoDB**
 
 - 📫 How to reach me **fikriarmia27@gmail.com**
 
