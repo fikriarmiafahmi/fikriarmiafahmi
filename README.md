@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Fikri Armia Fahmi</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+🅵🅸🅺🆁🅸 🅰🆁🅼🅸🅰 🅵🅰🅷🅼🅸;" />
+</h1>
+<h1 align="center">Hi 👋, I'm 🅵🅸🅺🆁🅸 🅰🆁🅼🅸🅰 🅵🅰🅷🅼🅸</h1>
 <h3 align="center">I studied the fields of Artificial Intelligence, Backend Development, and Frontend Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fikriarmiafahmi&label=Profile%20views&color=0e75b6&style=flat" alt="fikriarmiafahmi" /> </p>
