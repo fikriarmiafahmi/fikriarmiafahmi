@@ -2,7 +2,7 @@
 <h3 align="center">I studied the fields of Artificial Intelligence, Backend Development, and Frontend Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fikriarmiafahmi&label=Profile%20views&color=0e75b6&style=flat" alt="fikriarmiafahmi" /> </p>
-<img align="right" alt="MyPhoto" width="250" height="400" src="fikri.jpg">
+<img align="right" alt="MyPhoto" width="34%" src="fikri.jpg">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
