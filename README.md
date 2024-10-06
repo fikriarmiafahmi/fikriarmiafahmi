@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fikriarmiafahmi&label=Profile%20views&color=0e75b6&style=flat" alt="fikriarmiafahmi" /> </p>
 <div align="right">
   <a href="email:fikriarmia27@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -13,6 +12,7 @@
      <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fikriarmiafahmi&label=Profile%20views&color=0e75b6&style=flat" alt="fikriarmiafahmi" /> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Oswald&size=35&color=0712FFFF&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Hi+👋;+I'm+🅵🅸🅺🆁🅸+🅰🆁🅼🅸🅰+🅵🅰🅷🅼🅸;" />
 </h1>
