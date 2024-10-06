@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Oswald&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+🅵🅸🅺🆁🅸+🅰🆁🅼🅸🅰+🅵🅰🅷🅼🅸;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Oswald&size=35&center=true&vCenter=true&width=600&height=70&duration=6000&lines=Hi+👋;+I'm+🅵🅸🅺🆁🅸+🅰🆁🅼🅸🅰+🅵🅰🅷🅼🅸;" />
 </h1>
 <h1 align="center">Hi 👋, I'm 🅵🅸🅺🆁🅸 🅰🆁🅼🅸🅰 🅵🅰🅷🅼🅸</h1>
 <h3 align="center">I studied the fields of Artificial Intelligence, Backend Development, and Frontend Development</h3>
