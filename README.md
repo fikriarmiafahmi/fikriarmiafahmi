@@ -31,7 +31,7 @@
 
 - 🌱 I’m currently learning **Python, HTML, CSS, Javascript, PHP, C, C++, SQL**
 
-- 🤝 I’m looking for help with [w3schools](https://www.w3schools.com/)
+- 🤝 I’m looking for help with [stackoverflow](https://stackoverflow.com/), [w3schools](https://www.w3schools.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/fikriarmiafahmi](https://github.com/fikriarmiafahmi)
 
