@@ -2,18 +2,25 @@
 <h3 align="center">I studied the fields of Artificial Intelligence, Backend Development, and Frontend Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fikriarmiafahmi&label=Profile%20views&color=0e75b6&style=flat" alt="fikriarmiafahmi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fikriarmiafahmi" alt="fikriarmiafahmi" /></a> </p>
+<img align="right" alt="MyPhoto" width="250" height="400" src="fikri.jpg">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Universitas Pembangunan Jaya](https://upj.ac.id/)
+- 🔭 I’m currently studying on [Universitas Pembangunan Jaya](https://upj.ac.id/)
 
 - 🌱 I’m currently learning **Python, HTML, CSS, Javascript, PHP, C, SQL**
+
+- 🤝 I’m looking for help with [w3schools](https://www.w3schools.com/)
+
+- 👨‍💻 All of my projects are available at [https://github.com/fikriarmiafahmi](https://github.com/fikriarmiafahmi)
+
+- 📝 I regularly write articles on [https://osc.medcom.id/community/author/barayaroas@gmail.com](https://osc.medcom.id/community/author/barayaroas@gmail.com)
 
 - 💬 Ask me about **Keras, Tensorflow, PyTorch, OpenCV, Huggingface, Bootstrap, TypeScript,Node.js, Express.js, MySQL, MongoDB**
 
 - 📫 How to reach me **fikriarmia27@gmail.com**
+
+- ⚡ Fun fact **I think I overthinking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
