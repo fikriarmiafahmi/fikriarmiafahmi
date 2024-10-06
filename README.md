@@ -29,7 +29,7 @@
 
 - 🔭 I’m currently studying on [Universitas Pembangunan Jaya](https://upj.ac.id/)
 
-- 🌱 I’m currently learning **Python, HTML, CSS, Javascript, PHP, C, C++, SQL**
+- 🌱 I’m currently learning **Python, HTML, CSS, Javascript, Typescript, PHP, C, C++, AHK, SQL**
 
 - 🤝 I’m looking for help with [stackoverflow](https://stackoverflow.com/), [w3schools](https://www.w3schools.com/)
 
