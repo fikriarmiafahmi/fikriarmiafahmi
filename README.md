@@ -43,15 +43,16 @@
 
 - ⚡ Fun fact **I think I overthinking**
 
-<br>
-<h3 align="left">Connect with me:</h3>
+<br> 
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/fikri-armia-fahmi-b373b3288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fikri-armia-fahmi-b373b3288" height="30" width="40" /></a>
 <a href="https://instagram.com/fikriaf27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fikriaf27" height="30" width="40" /></a>
 <a href="https://discord.gg/fighterfire0346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fighterfire0346" height="30" width="40" /></a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" />Languages and Tools:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=arduino,bootstrap,c,css,express,figma,flutter,html,js,mongodb,mysql,nodejs,opencv,php,python,pytorch,tensorflow,typescript&perline=18)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats
