@@ -37,7 +37,7 @@
 
 - 📝 I regularly write articles on [https://osc.medcom.id/community/author/barayaroas@gmail.com](https://osc.medcom.id/community/author/barayaroas@gmail.com)
 
-- 💬 Ask me about **Keras, Tensorflow, PyTorch, OpenCV, Huggingface, Bootstrap, TypeScript, Node.js, Express.js, Arduino, MySQL, MongoDB**
+- 💬 Ask me about **Keras, Tensorflow, PyTorch, NLTK, OpenCV, Pygame, Bootstrap, Node.js, Express.js, Arduino, MySQL, MongoDB**
 
 - 📫 How to reach me **fikriarmia27@gmail.com**
 
